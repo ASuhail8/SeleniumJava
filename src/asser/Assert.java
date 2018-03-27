@@ -24,7 +24,7 @@ public class Assert {
 				sa.assertTrue(v);
 				driver.close();
 				sa.assertAll();
-				driver.quit();
+				
 				
 			}
 
